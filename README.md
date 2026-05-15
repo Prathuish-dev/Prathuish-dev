@@ -1,5 +1,20 @@
 <h1 align="center">Hi 👋, I'm Prathuish Sanjeevan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A developer building things that actually matter.
+
+Currently in my “turning caffeine into AI systems” phase ☕🤖 — exploring the intersection of backend engineering and applied AI. I work mostly with Node.js, Express, MongoDB, and JavaScript, but lately diving deep into LLMs, RAG pipelines, and intelligent systems.
+
+I enjoy tackling real-world problems and turning them into clean, scalable, and sometimes surprisingly simple solutions.
+
+ Interested in:
+
+* AI Engineering & LLM ecosystems
+* System design & scalable backends
+* Real-world problem solving with data
+
+Goal: Ship systems that are not just functional, but *smart*.
+
+Always learning, always building.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathuish-dev&label=Profile%20views&color=0e75b6&style=flat" alt="prathuish-dev" /> </p>
 
